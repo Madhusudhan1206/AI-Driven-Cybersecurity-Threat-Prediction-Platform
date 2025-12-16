@@ -1,9 +1,3 @@
-# Welcome to Your Miaoda Project
-Miaoda Application Link URL
-    URL:https://medo.dev/projects/app-7vfk0ympmqdd
-
-# Welcome to Your Miaoda Project
-
 ## Project Info
 
 ## Project Directory
@@ -91,6 +85,27 @@ Alternatively, use the official installer: Visit the Node.js official website. D
 
 Configure environment variables and install relevant dependencies.If you need to use a database, please use the official version of Supabase.
 
-## Learn More
+## ⚡ 3-Minute Setup
 
-You can also check the help documentation: Download and Building the app（ [https://intl.cloud.baidu.com/en/doc/MIAODA/s/download-and-building-the-app-en](https://intl.cloud.baidu.com/en/doc/MIAODA/s/download-and-building-the-app-en)）to learn more detailed content.
+### Step 1: Install Dependencies (1 minute)
+```bash
+npm install
+```
+### Step 2: Start Development Server (30 seconds)
+```bash
+npm run dev -- --host 127.0.0.1
+```
+### Step 3: Open Browser (30 seconds)
+Open your browser and go to:
+```
+http://127.0.0.1:5173
+
+## 📚 Full Documentation
+
+For detailed information, see:
+- **TESTING_GUIDE.md** - Complete testing instructions
+- **ADVANCED_FEATURES.md** - Feature documentation
+- **FEATURE_SHOWCASE.md** - Visual examples
+- **README_V3.md** - Full README
+
+
