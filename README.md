@@ -1,6 +1,10 @@
 ## Deployment Link
 https://ai-based-cyber-security-threats-tyei.onrender.com/
 
+## Architecture
+
+<img width="1522" height="820" alt="Screenshot 2025-12-16 184610" src="https://github.com/user-attachments/assets/5dbfe770-7d67-4a03-88a3-d4568d23de24" />
+
 ## Project Info
 
 ## Project Directory
